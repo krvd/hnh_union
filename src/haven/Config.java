@@ -134,7 +134,7 @@ public class Config {
 	public static boolean show_gob_health = true;
 	public static boolean no_scent_smoke = true;
 	public static boolean render_enable = true;
-	public static boolean use_wasd = true;
+	public static boolean use_wasd = false;
 	public static ArrayList<Pair<String, Color>> minimap_highlights = new ArrayList<Pair<String, Color>>();
 	public static HashMap<String, HashMap<String, Float>> FEPMap = new HashMap<String, HashMap<String, Float>>();
 	public static HashMap<String, CuriosityStat> CurioMap = new HashMap<String, CuriosityStat>();
